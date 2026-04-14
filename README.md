@@ -12,5 +12,9 @@
 
 
 <p align="left">📬 Contato:</p>
+
+![Static Badge](https://img.shields.io/badge/EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)
+
   
 
