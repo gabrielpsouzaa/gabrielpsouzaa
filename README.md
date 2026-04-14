@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Seja bem-vindo 👋
+<br>
+<br>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=36&pause=1000&color=0B6AE1&center=true&width=435&lines=Hello+World!;Software+Engineer)](https://git.io/typing-svg)</h1>
 
-<!--
-**gabrielpsouzaa/gabrielpsouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 📚 Estudante em Engenharia de Software, atualmente no 7º Semestre e a procura de vaga para estágio na área <h2>
 
-Here are some ideas to get you started:
+<p align="left">Aprendizagem contínua em:</p>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">📬 Contato:</p>
+  
+
