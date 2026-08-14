@@ -7,13 +7,13 @@
 <h2 align="center"> 📚 Estudante em Engenharia de Software <h2>
 
 <p align="left">Aprendizagem contínua em:</p>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=py,html,js,)](https://skillicons.dev)
 <br>
 
 
 <p align="left">📬 Contato:</p>
 
-![Static Badge](https://img.shields.io/badge/EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)
 
   
