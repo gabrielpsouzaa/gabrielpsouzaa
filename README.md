@@ -7,7 +7,8 @@
 <h2 align="center"> 📚 Estudante em Engenharia de Software <h2>
 
 <p align="left">Aprendizagem contínua em:</p>
-[![My Skills](https://skillicons.dev/icons?i=py,html,js,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,nodejs,git,github)](https://skillicons.dev)
 <br>
 
 
