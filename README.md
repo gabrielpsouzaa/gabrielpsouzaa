@@ -2,7 +2,7 @@
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=36&pause=1000&color=0B6AE1&center=true&width=435&lines=Hello+World!;Software+Engineer)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&duration=7000&pause=1002&color=FF1018&center=true&width=435&lines=Ol%C3%A1+Mundo!)](https://git.io/typing-svg)</h1>
 
 <h2 align="center"> 📚 Estudante em Engenharia de Software <h2>
 
