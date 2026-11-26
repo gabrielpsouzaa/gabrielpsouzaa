@@ -1,4 +1,4 @@
-<h1 align="center"> Olá seja bem-vindo, sou o Gabriel P. Souza 👋
+<h1 align="center"> 👋 Olá seja bem-vindo, sou o Gabriel P. Souza
 <br>
 <br>
   
