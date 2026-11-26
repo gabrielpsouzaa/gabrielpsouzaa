@@ -1,12 +1,14 @@
-<h1 align="center">Seja bem-vindo, meu nome é Gabriel Pinto de Souza 👋
+<h1 align="center"> Olá seja bem-vindo, sou o Gabriel P. Souza 👋
 <br>
 <br>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&duration=7000&pause=1002&color=FF1018&center=true&width=435&height=65&lines=Ol%C3%A1+Mundo!)](https://git.io/typing-svg)</h1>
 
-<h2 align="center"> 📚 Estudante em Engenharia de Software <h2>
+<h2 align="Left"> Sobre <h2>
 
-<p align="left">Aprendizagem contínua em:</p>
+📚 Meu nome é Gabriel Pinto de Souza atualmente sou estudante em Engenharia de Software
+
+<p align="left">Mantenho a aprendizagem contínua em:</p>
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,nodejs,git,github)](https://skillicons.dev)
 <br>
