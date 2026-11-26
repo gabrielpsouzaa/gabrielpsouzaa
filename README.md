@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&duration=7000&pause=1002&color=FF1018&center=true&width=435&height=65&lines=Ol%C3%A1+Mundo!)](https://git.io/typing-svg)</h1>
 
-<p align="Left"> Sobre <p>
+<p align="Left"> Sobre </p>
   
 🧑 Meu nome é Gabriel Pinto de Souza atualmente sou estudante em Engenharia de Software
 
