@@ -6,7 +6,7 @@
 
 <h2 align="Left"> Sobre
   
-<p 🧑 Meu nome é Gabriel Pinto de Souza atualmente sou estudante em Engenharia de Software</p>
+🧑 Meu nome é Gabriel Pinto de Souza atualmente sou estudante em Engenharia de Software
 
 <p align="left">Mantenho a aprendizagem contínua em:</p>
 
