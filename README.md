@@ -1,8 +1,8 @@
-<h1 align="center">Seja bem-vindo, meu nome é Gabriel P. Souza 👋
+<h1 align="center">Seja bem-vindo, meu nome é Gabriel Pinto de Souza 👋
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&duration=7000&pause=1002&color=FF1018&center=true&width=435&lines=Ol%C3%A1+Mundo!)](https://git.io/typing-svg)</h1>
+[![Typing SVG][![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=7000&pause=1002&color=FF1018&center=true&width=435&lines=Ol%C3%A1+Mundo!)](https://git.io/typing-svg)</h1>
 
 <h2 align="center"> 📚 Estudante em Engenharia de Software <h2>
 
